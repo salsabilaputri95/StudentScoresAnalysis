@@ -37,6 +37,6 @@ The dataset can be downloaded from [here](https://drive.google.com/file/d/1eYFfx
 3. **Regular Updates**: Regularly update the dataset with new student scores to keep the model trained on the latest data.
 4. **Cross-Validation**: Implement cross-validation to ensure the model's robustness and avoid overfitting.
 
-If you have any suggestions or feedback, please don't hesitate to contact me via direct message on LinkedIn and Email: [salsabilaputri7456@gmail.com](salsabilaputri7456@gmail.com) and [LinkedIn Profile](https://www.linkedin.com/in/salsabila-putri-2a003b280/).
+If you have any suggestions or feedback, please don't hesitate to contact me via direct message on LinkedIn and Email: [salsabilaputri7456@gmail.com](salsabilaputri7456@gmail.com) and [Salsabila Putri](https://www.linkedin.com/in/salsabila-putri-2a003b280/).
 
 #StudentScoresAnalysis #LinearRegression #DecisionTree #MachineLearning #DataScience
